@@ -29,7 +29,7 @@ A simple and user-friendly **Streamlit** web application that allows users to up
 
 ```bash
 git clone https://github.com/ranwala/merge-pdfs.git
-cd pdf-merger-app
+cd merge-pdfs
 ```
 
 ### 3. Install dependencies
